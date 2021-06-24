@@ -9,7 +9,16 @@ Sample website with plenty of files for demos
 Purpose is to understand Github
 
 ## Deployment
+This file will not be deployed
 
+This is a simple web project.
+This should not get staged.
 
 ## Introduction
 This is to show different parts of a Git repository
+
+We will stage this.
+
+We will not stage this.
+
+## Staged
