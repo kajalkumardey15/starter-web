@@ -6,6 +6,7 @@ This is a simple file created by KKD to show working of Git and Github together
 ## Purpose
 
 Sample website with plenty of files for demos
+Purpose is to understand Github
 
 ## Deployment
 
