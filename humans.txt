@@ -3,7 +3,9 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    KKD
+	DE
+	KKD.TWITTER
 
 # THANKS
 
