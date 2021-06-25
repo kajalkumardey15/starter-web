@@ -14,7 +14,7 @@ Purpose is to provide simple examples for Git
 Deployment can be on any web server.
 
 ## How to contribute
-
+Please contribute as requirement
 
 ### Copyright
 2021 Git
