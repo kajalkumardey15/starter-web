@@ -7,6 +7,10 @@ Simple into
 
 ## Purpose
 
+Purpose is to provide simple examples for Git
+
 ## Deployment
+
+Deployment can be on any web server.
 
 ## How to contribute
