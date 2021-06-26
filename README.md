@@ -18,4 +18,4 @@ Deployment can be on any web server.
 Please contribute as requirement
 
 ### Copyright
-2021 Git
+2021 Git. All rights reserved.
